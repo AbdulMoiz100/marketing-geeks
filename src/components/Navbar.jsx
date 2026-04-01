@@ -19,7 +19,6 @@ const Navbar = () => {
           <a href="#home">Home</a>
           <a href="#services">Services</a>
           <a href="#workItems">Our Work</a>
-          {/* <a href="#contact">Contact Us</a> */}
           <a href="/#contact">Contact Us</a>
         </div>
 
